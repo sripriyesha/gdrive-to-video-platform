@@ -1,0 +1,49 @@
+[
+  {
+    "name": "preferences",
+    "value": "{%22theme%22:%22day%22%2C%22autoplay%22:false}",
+    "domain": "www.bitchute.com",
+    "path": "/",
+    "expires": 1684746786,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cf_clearance",
+    "value": "K82zvMjHnoLqC5rAHG4rx4Yh7BzbiQjC96ucckdPCmw-1651854276-0-250",
+    "domain": ".bitchute.com",
+    "path": "/",
+    "expires": 1683393876.596081,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "cookielaw",
+    "value": "on",
+    "domain": "www.bitchute.com",
+    "path": "/",
+    "expires": 1683407528,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "csrftoken",
+    "value": "9l8HJb6f36wTCTY5NlQFDopHlocJgYT4RNyqVBqJiIka2naIYViZlFCJ5QCHU9Rr",
+    "domain": "www.bitchute.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sessionid",
+    "value": "ih6mx4dnjleead4vg11109wfqqgqjdih",
+    "domain": "www.bitchute.com",
+    "path": "/",
+    "expires": 1654373075.891697,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]
